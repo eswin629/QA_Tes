@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Web Hosting - courtesy of www.bluehost.com</name>
+   <tag></tag>
+   <elementGuidId>5f0af2f2-2aab-4079-ba27-1930edef9cc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.login_container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Web Hosting - courtesy of www.bluehost.com')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>910e28b8-a8c7-4e9f-b803-19729fd31be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_container</value>
+      <webElementGuid>df9ec434-aa20-4d65-badc-a0e51cac6495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.bluehost.com/</value>
+      <webElementGuid>af1fe149-1438-48f4-be35-44bf65651e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>deb71765-e0f4-42eb-a6e6-c63d97a2e971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Web Hosting - courtesy of www.bluehost.com</value>
+      <webElementGuid>85c3b26f-99ec-4202-ab1a-37655661637e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;frame center&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;header_top&quot;]/a[@class=&quot;login_container&quot;]</value>
+      <webElementGuid>853cc270-b3c5-4351-b427-db3f3dc70df2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Web Hosting - courtesy of www.bluehost.com')]</value>
+      <webElementGuid>7542175f-ddad-482e-884f-8b906b09c41c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Affordable, ReliableWeb Hosting Solutions'])[1]/following::a[1]</value>
+      <webElementGuid>ba97d565-e825-4b87-ab26-c6405b2a2783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help Center'])[1]/preceding::a[1]</value>
+      <webElementGuid>db2d714f-2c7d-428b-a4e8-f79ddbb7e503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::a[2]</value>
+      <webElementGuid>fc0718d2-5b74-4444-a190-9e86bf0e5bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Web Hosting - courtesy of www.bluehost.com']/parent::*</value>
+      <webElementGuid>3eff0887-b1a2-40db-b1d2-c3b9396c2329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://www.bluehost.com/'])[2]</value>
+      <webElementGuid>d7fd3e62-fd45-4453-a6a2-f2460823dc34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>fc70e0cf-19c1-4fed-9e33-39f7d223eeb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://www.bluehost.com/' and (text() = 'Web Hosting - courtesy of www.bluehost.com' or . = 'Web Hosting - courtesy of www.bluehost.com')]</value>
+      <webElementGuid>92dc682b-75bb-4a89-8f35-e35a821cb192</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

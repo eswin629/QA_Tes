@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dc92e03-6a25-4328-9303-8e269951df51</testCaseGuid>
+   <variable>
+      <defaultValue>'admin@yourstore.com'</defaultValue>
+      <description></description>
+      <id>c1d70a43-c2d2-41bb-a4dd-5d3332945a03</id>
+      <masked>false</masked>
+      <name>username1</name>
+   </variable>
+   <variable>
+      <defaultValue>'RAIVpflpDOg='</defaultValue>
+      <description></description>
+      <id>8c8a5111-9c22-47d3-94be-c231fa64f447</id>
+      <masked>false</masked>
+      <name>password1</name>
+   </variable>
+   <variable>
+      <defaultValue>'abc@yourstore.com'</defaultValue>
+      <description></description>
+      <id>190d78f1-7aa0-42f1-ade9-02b389f24b90</id>
+      <masked>false</masked>
+      <name>username2</name>
+   </variable>
+   <variable>
+      <defaultValue>'RAIVpflpDOg='</defaultValue>
+      <description></description>
+      <id>528cabf3-a3a4-4f65-90a1-51988e7713f5</id>
+      <masked>false</masked>
+      <name>password2</name>
+   </variable>
+</TestCaseEntity>
